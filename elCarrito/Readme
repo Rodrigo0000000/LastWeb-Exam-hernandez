@@ -1,0 +1,12 @@
+TUTORIAL HOW TO USE IT
+
+First go to the proyect and use one of this commands being in the route "C:\Users\<YourUser>\Desktop\LastWeb>":
+& C:\Users\<YourUsed>\Desktop\LastWeb\venv\Scripts\Activate.ps1
+
+Once you´re in, use the command:
+cd elCarrito                                                                                                                                                                                                
+
+And then:
+python manage.py runserver
+
+For more information about the code, there's a 'documentarion' file, the explanation for most of the part of the code is there
