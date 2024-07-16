@@ -96,3 +96,7 @@ body {
     z-index: 1000;
 }
 
+.carouselTesting{
+    width: 100%;
+    height: 100vh;
+}
